@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1679688701 source:d:\_laila_place\_ieeecsc\ieee_manscsc\data_structure_c_tasks\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Student_Data_Base.h"
+	<string.h>
+
+1679688701 d:\_laila_place\_ieeecsc\ieee_manscsc\data_structure_c_tasks\project\student_data_base.h
+
